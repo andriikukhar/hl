@@ -3,8 +3,6 @@
   "appName": "Hotline.ua",
   "webDir": "www",
   "server": {
-    "url": "https://hotline.ua",
-    "hostname": "hotline.ua",
     "androidScheme": "https",
     "allowNavigation": ["hotline.ua", "*.hotline.ua"]
   },
