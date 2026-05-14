@@ -5,7 +5,8 @@
   "server": {
     "url": "https://hotline.ua",
     "cleartext": false,
-    "androidScheme": "https"
+    "androidScheme": "https",
+    "allowNavigation": ["hotline.ua", "*.hotline.ua"]
   },
   "android": {
     "allowMixedContent": false
