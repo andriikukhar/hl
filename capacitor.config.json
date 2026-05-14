@@ -4,15 +4,12 @@
   "webDir": "www",
   "server": {
     "url": "https://hotline.ua",
-    "cleartext": false,
+    "hostname": "hotline.ua",
     "androidScheme": "https",
     "allowNavigation": ["hotline.ua", "*.hotline.ua"]
   },
   "android": {
-    "allowMixedContent": false
-  },
-  "ios": {
-    "contentInset": "always",
-    "preferredContentMode": "mobile"
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": true
   }
 }
