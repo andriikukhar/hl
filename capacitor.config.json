@@ -3,8 +3,8 @@
   "appName": "Hotline.ua",
   "webDir": "www",
   "server": {
-    "androidScheme": "https",
-    "allowNavigation": ["hotline.ua", "*.hotline.ua"]
+    "url": "https://google.com",
+    "androidScheme": "https"
   },
   "android": {
     "allowMixedContent": true,
