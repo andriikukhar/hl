@@ -1,0 +1,17 @@
+{
+	"appId": "ua.hotline.app",
+	"appName": "Hotline.ua",
+	"webDir": "www",
+	"server": {
+		"url": "https://hotline.ua",
+		"cleartext": false,
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": false
+	},
+	"ios": {
+		"contentInset": "always",
+		"preferredContentMode": "mobile"
+	}
+}

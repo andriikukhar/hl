@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hotline.ua</string>
+    <string name="title_activity_main">Hotline.ua</string>
+    <string name="package_name">ua.hotline.app</string>
+    <string name="custom_url_scheme">ua.hotline.app</string>
+</resources>
